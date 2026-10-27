@@ -1,0 +1,19 @@
+SIDD / THE PORTFOLIO TAPES — FULL STACK V3
+==========================================
+
+A VHS-inspired React/Vite portfolio with admin CMS and Neon-compatible backend.
+
+1) Open this project folder in VS Code.
+2) Run: npm install
+3) Run: npm run setup
+4) Run: npm run dev
+5) Open: http://localhost:5173
+6) Admin: http://localhost:5173/admin
+7) Replace the four DEMO projects before publishing.
+8) Run: npm run test:api && npm run build
+9) Push to a NEW GitHub repo or SAFE development branch.
+10) Configure Neon DATABASE_URL + ADMIN_EMAIL, ADMIN_PASSWORD, AUTH_SECRET in Vercel.
+
+README.md contains the full guide, security notes, commands and API details.
+
+The reference site's images, text and source code are not included.

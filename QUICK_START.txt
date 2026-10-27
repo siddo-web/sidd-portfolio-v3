@@ -1,0 +1,25 @@
+SIDD FULL-STACK INTERACTIVE PORTFOLIO — QUICK START
+
+1. Extract the ZIP and open the folder in VS Code.
+2. Install Node.js 22 or newer.
+3. Run: npm install
+4. Run: npm run setup
+   Save the generated local admin email/password shown in the terminal.
+5. Run: npm run dev
+6. Visit: http://localhost:5173/       (portfolio)
+7. Visit: http://localhost:5173/admin  (admin dashboard)
+8. Edit project content and click Publish changes.
+9. Run: npm run test:api && npm run build before committing to GitHub.
+
+GITHUB/VERCEL:
+- Use a new GitHub repository or a new branch. Don't overwrite the live site yet.
+- In Vercel add a Neon Postgres database.
+- In Project Settings -> Environment Variables set DATABASE_URL, ADMIN_EMAIL,
+  ADMIN_PASSWORD and AUTH_SECRET (production-only unique secure values).
+- Optionally configure RESEND_API_KEY, NOTIFICATION_EMAIL, RESEND_FROM_EMAIL.
+- Deploy and check /api/health and /admin.
+
+Read README.md for full instructions and a list of backend API endpoints.
+
+Known verification limit: 6 API tests pass, JSX parses successfully;
+full production build not verified because npm registry was unreachable here.

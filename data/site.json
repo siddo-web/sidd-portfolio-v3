@@ -1,0 +1,174 @@
+{
+  "brand": "sidd.",
+  "role": "CREATIVE DEVELOPER / INTERACTIVE DESIGN",
+  "hero": {
+    "eyebrow": "A PERSONAL ARCHIVE OF WEB EXPERIMENTS",
+    "line1": "Great work",
+    "line2": "In motion.",
+    "description": "I design and develop interactive websites where motion, technology, and a little curiosity create something unforgettable.",
+    "cta": "Explore the tapes"
+  },
+  "about": {
+    "headline": "Curiosity is the whole point.",
+    "paragraph1": "I enjoy taking ideas from a rough sketch to something you can actually click, explore, and use. This portfolio is a space to experiment with design, motion, code, and everything in between.",
+    "paragraph2": "For me, the best digital experiences are both expressive and accessible. Every interaction should have a reason to exist."
+  },
+  "contact": {
+    "email": "",
+    "availability": "Open for select projects",
+    "heading": "Let’s make|something|matter"
+  },
+  "socials": {
+    "github": "https://github.com/siddo-web",
+    "linkedin": "",
+    "instagram": "",
+    "resume": ""
+  },
+  "services": [
+    {
+      "number": "01",
+      "symbol": "{ }",
+      "title": "Frontend engineering",
+      "description": "Responsive and maintainable interfaces built with reusable React components and attention to detail.",
+      "tags": [
+        "React",
+        "Vite",
+        "JavaScript"
+      ]
+    },
+    {
+      "number": "02",
+      "symbol": "◈",
+      "title": "Interactive experiences",
+      "description": "Fluid motion, subtle 3D, and interactions that build clarity and character.",
+      "tags": [
+        "Three.js",
+        "React Three Fiber",
+        "Framer Motion"
+      ]
+    },
+    {
+      "number": "03",
+      "symbol": "↗",
+      "title": "Design to production",
+      "description": "From expressive visual ideas to accessible, performant, production-ready websites.",
+      "tags": [
+        "UI systems",
+        "Accessibility",
+        "Vercel"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp1",
+      "period": "2026 — NOW",
+      "title": "Building & experimenting",
+      "company": "Independent creative development",
+      "description": "Creating expressive interfaces and learning modern full-stack workflows."
+    },
+    {
+      "id": "exp2",
+      "period": "2025 — 2026",
+      "title": "Learning through shipping",
+      "company": "Personal projects",
+      "description": "Building experiments from scratch and deploying them to the web."
+    }
+  ],
+  "projects": [
+    {
+      "id": "astra",
+      "index": "01",
+      "name": "Astra Analytics",
+      "kind": "Web Application",
+      "type": "Development",
+      "year": "2026",
+      "summary": "Making complex data feel surprisingly effortless.",
+      "detail": "A next-generation analytics workspace concept balancing complex information with useful, beautiful interaction. Built to demonstrate modern component architecture and visual storytelling.",
+      "contribution": [
+        "Product UI",
+        "React architecture",
+        "Data visualization",
+        "Motion system"
+      ],
+      "variant": "astra",
+      "featured": true,
+      "published": true,
+      "image": "",
+      "url": "",
+      "repo": ""
+    },
+    {
+      "id": "orbit",
+      "index": "02",
+      "name": "Orbit Studio",
+      "kind": "Creative Website",
+      "type": "Design",
+      "year": "2026",
+      "summary": "A magnetic home for ideas that refuse to sit still.",
+      "detail": "A creative studio concept where editorial typography, kinetic composition, and layered visuals make a distinctive digital experience.",
+      "contribution": [
+        "Art direction",
+        "Responsive UI",
+        "Interactive design",
+        "Microinteractions"
+      ],
+      "variant": "orbit",
+      "featured": true,
+      "published": true,
+      "image": "",
+      "url": "",
+      "repo": ""
+    },
+    {
+      "id": "pulse",
+      "index": "03",
+      "name": "Pulse Mobile",
+      "kind": "Product Concept",
+      "type": "Design",
+      "year": "2025",
+      "summary": "A calmer interface for the routines that move us.",
+      "detail": "An exploratory wellbeing interface featuring focused daily rituals, accessible data visualization, and an intuitive mobile-first navigation system.",
+      "contribution": [
+        "UX flows",
+        "Interface design",
+        "Prototyping",
+        "Design system"
+      ],
+      "variant": "pulse",
+      "featured": false,
+      "published": true,
+      "image": "",
+      "url": "",
+      "repo": ""
+    },
+    {
+      "id": "syntax",
+      "index": "04",
+      "name": "Syntax Playground",
+      "kind": "Interactive Web",
+      "type": "Development",
+      "year": "2025",
+      "summary": "Small experiments for ambitious creative code.",
+      "detail": "An experimental development concept combining real-time controls, procedural illustration, and a playful interface for learning.",
+      "contribution": [
+        "Creative coding",
+        "React components",
+        "Interaction design",
+        "Performance"
+      ],
+      "variant": "syntax",
+      "featured": false,
+      "published": true,
+      "image": "",
+      "url": "",
+      "repo": ""
+    }
+  ],
+  "settings": {
+    "siteTitle": "SIDD — The Portfolio Tapes",
+    "metaDescription": "SIDD — a retro-futuristic archive of creative development and interactive web projects.",
+    "showLab": true,
+    "accent": "violet"
+  }
+}
